@@ -1,0 +1,43 @@
+.container {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-around;
+}
+
+.container-textos {
+    width: 30%;
+    margin-left: 10%;
+}
+
+.container-imagem{
+    width: 35%;
+    height: 10rem;
+}
+
+.imagem-portfolio{
+    border-radius: 1rem;
+    opacity: 0.6;
+    max-width: 100%;
+    height: auto;
+}
+
+.textoDestaque {
+    color: #F6F6F6;
+    font-family: 'Krona One', sans-serif;
+    font-size: 2rem;
+    font-weight: 700;
+    margin-top: 12%;
+
+}
+
+.textoDestaque strong{
+    color: #22D4FD;
+}
+
+.textoPrincipal{
+    color: #F6F6F6;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+    font-weight: 500;
+    margin-top: 12%;
+}
